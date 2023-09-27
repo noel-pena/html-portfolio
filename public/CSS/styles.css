@@ -26,13 +26,22 @@ body{
     background-color: aliceblue;
   }
   h3 {
-    color: #6096B4;}
+    color: #6096B4;
+  }
   h3 {
     background-color: azure;
   }
   body {
     color: #537e7f 
-};
+}
+body{
+  font-size: 19px;
+  font-weight: bolder;
+}
+#Cake{
+  background-color: aliceblue;
+  border: solid;
+}
 
 
 
