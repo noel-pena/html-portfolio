@@ -1,0 +1,54 @@
+
+.note {
+  font-size: 14px;
+  color: #354f50;
+}
+*{
+  font-family: 'Raleway', sans-serif;
+}
+
+body{
+    background-color: #BDCDD6;
+  }
+
+  hr {
+    border-style:dashed;
+    border-top-style:dashed;
+    border-color: 6096B4;
+    border-width: 1px;
+    width: 1%;
+  }
+
+  h1 {
+    color: #354f50;
+  }
+  h1 {
+    background-color: aliceblue;
+  }
+  h3 {
+    color: #6096B4;
+  }
+  h3 {
+    background-color: azure;
+  }
+  body {
+    color: #537e7f 
+}
+body{
+  font-size: 19px;
+  font-weight: bolder;
+}
+#Cake{
+  background-color: aliceblue;
+  border: solid;
+}
+
+
+
+
+
+
+
+
+
+
